@@ -3,35 +3,38 @@ name: 0. Release
 on:
   push:
     tags:
-      - '*'
+      - 'v*'
 
-env:
-  REPO_PATH: .repo.local.d
-  ASSETS_PATH: .assets.local.d
+permissions:
+  contents: write
 
 jobs:
   release:
-    name: Release
+    name: Build and publish translation
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout tagged source
         uses: actions/checkout@v6
-        with:
-          path: ${{ env.REPO_PATH }}
 
-      - name: Build Release Assets
-        uses: Kiwi233/Translation-of-GTNH/.github/actions/run-script@master
+      - name: Setup Python
+        uses: actions/setup-python@v6
         with:
-          script: release.ts
+          python-version: '3.12'
+
+      - name: Build release assets
+        run: python scripts/build_release.py
+
+      - name: Publish release
         env:
-          ARCHIVE_NAME: ${{ github.ref_name }}.7z
-          NEC_URL: https://raw.githubusercontent.com/Kiwi233/Translation-of-GTNH/NotEnoughCharacters/NotEnoughCharacters-1.6.1.jar
-          NEC_NAME: NotEnoughCharacters-1.6.1.jar
-
-      - name: Release
-        uses: softprops/action-gh-release@v1
-        with:
-          name: ${{ github.ref_name }} 版本汉化
-          body: |
-            请阅读主页ReadMe以获知详细用法
-          files: ${{ env.ASSETS_PATH }}/*
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          if gh release view "$RELEASE_TAG" > /dev/null 2>&1; then
+            gh release upload "$RELEASE_TAG" dist/*.zip dist/*.sha256 --clobber
+            gh release edit "$RELEASE_TAG" --title "GTNH 2.9.0 汉化补丁（增量版）" --notes-file RELEASE_NOTES.md --latest
+          else
+            gh release create "$RELEASE_TAG" dist/*.zip dist/*.sha256 \
+              --verify-tag --title "GTNH 2.9.0 汉化补丁（增量版）" \
+              --notes-file RELEASE_NOTES.md --latest
+          fi

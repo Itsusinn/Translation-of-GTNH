@@ -1,0 +1,2870 @@
+[
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.forbidden.heretic",
+    "source": "Heretic",
+    "translation": "异教徒"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.desc.fluid_info",
+    "source": "%sL / %sL",
+    "translation": "%s升 / %s升"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.interact.desc.fluid_regulator.L",
+    "source": "§8 L",
+    "translation": "§8升"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "fluid.fluid.lithiumperoxide",
+    "source": "Lithium Peroxide",
+    "translation": "过氧化锂"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "fluid.fluid.rp1fuel",
+    "source": "RP-1",
+    "translation": "RP-1燃料"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "fluid.lithiumhydroxide",
+    "source": "Lithium Hydroxide",
+    "translation": "氢氧化锂"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.10.tooltip",
+    "source": "Can also harvest ice",
+    "translation": "同样可以采集冰块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.12.tooltip",
+    "source": "Crushes ores instead of harvesting them",
+    "translation": "不采集矿石，直接粉碎"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.16.tooltip",
+    "source": "Hold left-click to dismantle machines",
+    "translation": "按住左键以拆卸机器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.20.tooltip",
+    "source": "Dismounts covers and rotates rails",
+    "translation": "拆下覆盖板、旋转铁轨"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.22.tooltip",
+    "source": "Adjusts covers and machines",
+    "translation": "调整机器与覆盖板"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.36.tooltip",
+    "source": "Has a slow attack rate",
+    "translation": "攻击速度很低"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.170.tooltip",
+    "source": "Turbine Rotors for your power station",
+    "translation": "大涡轮机使用的涡轮转子"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.172.tooltip",
+    "source": "Turbine Rotors for your power station",
+    "translation": "大涡轮机使用的涡轮转子"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.174.tooltip",
+    "source": "Turbine Rotors for your power station",
+    "translation": "大涡轮机使用的涡轮转子"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.176.tooltip",
+    "source": "Turbine Rotors for your power station",
+    "translation": "大涡轮机使用的涡轮转子"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.180.tooltip",
+    "source": "6 useful Tools in one!",
+    "translation": "六合一工具！"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.188.tooltip",
+    "source": "Can also harvest ice",
+    "translation": "同样可以采集冰块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.190.tooltip",
+    "source": "Adjusts covers and machines",
+    "translation": "调整机器与覆盖板"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.lang.face.back",
+    "source": "Back",
+    "translation": "背面"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.lang.face.bottom",
+    "source": "Bottom",
+    "translation": "底面"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.lang.face.front",
+    "source": "Front",
+    "translation": "正面"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.lang.face.left",
+    "source": "Left",
+    "translation": "左面"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.lang.face.none",
+    "source": "None",
+    "translation": "无"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.lang.face.right",
+    "source": "Right",
+    "translation": "右面"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.lang.face.top",
+    "source": "Top",
+    "translation": "顶面"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32040.tooltip",
+    "source": "Extruder Shape for making Windmill Shafts",
+    "translation": "用来制作风电转子转轴的模头"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32050.tooltip",
+    "source": "Reusable",
+    "translation": "可重复使用"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32052.tooltip",
+    "source": "Reusable",
+    "translation": "可重复使用"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32054.tooltip",
+    "source": "Reusable",
+    "translation": "可重复使用"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32055.tooltip",
+    "source": "Reusable",
+    "translation": "可重复使用"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32066.tooltip",
+    "source": "Reusable",
+    "translation": "可重复使用"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32068.tooltip",
+    "source": "Reusable",
+    "translation": "可重复使用"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32070.tooltip",
+    "source": "Reusable",
+    "translation": "可重复使用"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32072.tooltip",
+    "source": "Maximum void amount: 64,000",
+    "translation": "最大销毁阈值：64,000"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32073.tooltip",
+    "source": "Maximum void amount: 512,000",
+    "translation": "最大销毁阈值：512,000"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32074.tooltip",
+    "source": "Maximum void amount: 4,096,000",
+    "translation": "最大销毁阈值：4,096,000"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32075.tooltip",
+    "source": "Maximum void amount: 32,768,000",
+    "translation": "最大销毁阈值：32,768,000"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32076.tooltip",
+    "source": "Maximum void amount: 262,144,000",
+    "translation": "最大销毁阈值：262,144,000"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32106.tooltip",
+    "source": "Used in crafting",
+    "translation": "用于合成"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32107.tooltip",
+    "source": "Used in crafting",
+    "translation": "用于合成"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32108.tooltip",
+    "source": "Used in crafting",
+    "translation": "用于合成"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32109.tooltip",
+    "source": "Used in crafting",
+    "translation": "用于合成"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32110.tooltip",
+    "source": "Reusable",
+    "translation": "可重复使用"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32140.tooltip",
+    "source": "Allows UV & IF to pass through, blocks visible light spectrums",
+    "translation": "允许紫外&红外光通过,阻挡可见光"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "MU-metaitem.01.32152.tooltip",
+    "source": "Used to upgrade Maceration Stack to Tier 2",
+    "translation": "用于将粉碎机升级到2阶"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.pneumaticcraft.VillagerMechanic",
+    "source": "Mechanic",
+    "translation": "机械师"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.gravestone.undertaker",
+    "source": "Undertaker",
+    "translation": "送葬人"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.gcewing_sg.tokra",
+    "source": "Tok'ra",
+    "translation": "托克拉商人"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.steamcraft.villager",
+    "source": "Steamcrafter",
+    "translation": "蒸汽工匠"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.defeatedcrow.villager_cafe",
+    "source": "Cafe",
+    "translation": "咖啡店老板"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.defeatedcrow.villager_yome",
+    "source": "Yome",
+    "translation": "仓库管理员"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.jewelrycraft.jeweler",
+    "source": "Jeweller",
+    "translation": "珠宝商"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.taverns.barwench",
+    "source": "Bar Maid",
+    "translation": "酒吧女佣"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.taverns.village_shepherdess",
+    "source": "Shepherdess",
+    "translation": "女牧羊人"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.taverns.village_hostler",
+    "source": "Hostler",
+    "translation": "马夫"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.taverns.village_baker",
+    "source": "Baker",
+    "translation": "面包师"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.tynkyn.jx_villager_recycle",
+    "source": "Recycling",
+    "translation": "回收"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.tynkyn.jx_villager_botanist",
+    "source": "Botanist",
+    "translation": "植物学家"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.lozmod.villager_beedle",
+    "source": "Beedle",
+    "translation": "特里"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.lozmod.villager_beedle_special",
+    "source": "Beedle",
+    "translation": "特里"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.savemoney.insurer",
+    "source": "Insurer",
+    "translation": "保险员"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.actuallyadditions.jamVillager",
+    "source": "Jam Villager",
+    "translation": "果酱师傅"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.jewelrycraft2.jeweler",
+    "source": "Jeweler",
+    "translation": "珠宝商"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.pokecube_adventures.cubesalesman",
+    "source": "Salesman",
+    "translation": "售货员"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.xw.smithy3",
+    "source": "Smithy",
+    "translation": "铁匠"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.xw.hunter_v1",
+    "source": "Hunter",
+    "translation": "猎手"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.diversity.warrior",
+    "source": "Warrior",
+    "translation": "武士"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.diversity.chief",
+    "source": "Chief",
+    "translation": "村长"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.diversity.breeder",
+    "source": "Breeder",
+    "translation": "饲养员"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.diversity.guru",
+    "source": "Guru",
+    "translation": "专家"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.jbrobot.jbvillagermotion",
+    "source": "Motion",
+    "translation": "动作"
+  },
+  {
+    "file": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+    "key": "description.villager.profession.jbrobot.jbvillagercarving",
+    "source": "Carving",
+    "translation": "雕刻"
+  },
+  {
+    "file": "resources/GT_ New Horizons[dreamcraft]/lang/zh_CN.lang",
+    "key": "tc.research_page.GLYPHSTONE.1",
+    "source": "为了使仪式成功激活，稳定性需要为151或更高。稳定性越高，你的装甲持续时间就越长。如果你使用了图符：刚硬稳定，每个接触面将提供2点稳定性。虽然这样显然比使用泥土或是别的方块构建密室更贵，但这样基本上使密室的稳定性翻倍了。因此，最好用这些图符构建整个密室的外部（除了必须是仪式石和玻璃钟罩的地板）。",
+    "translation": "现在该举行欧米伽仪式了。欧米伽装甲是血魔法束缚装甲的升级形态。欧米伽密室是仪式中最复杂、也最重要的部分，你的欧米伽装甲的持续时间和防护能力几乎完全取决于它。激活仪式时，试剂会像气体一样从主仪式石中释放。为了给装甲充能，必须将气体封存在密室内，所以激活仪式时密室必须完全密封。试剂气体进入装甲后，就可以打破密室离开了。由于试剂呈气态，密室体积并不重要；激活仪式后，每个与气体接触的方块表面都会提供1点稳定性。"
+  },
+  {
+    "file": "resources/GT_ New Horizons[dreamcraft]/lang/zh_CN.lang",
+    "key": "tc.research_page.GLYPHSTONE.2",
+    "source": "为了提升欧米伽状态的持续时间，密室的稳定性需要提高。为了提升装甲的附魔威力，密室的附魔性也要提高，你需要图符以接受附魔。有两种附魔图符，魔咒专家：提升装甲的附魔亲和性、神秘潜能：提升当前附魔等级。那为什么不将你的密室全部用这两种图符建造呢，因为每个魔咒专家会降低10点稳定性，每个神秘潜能会降低20点稳定性。这也是我建议你最好用尽可能多的刚硬稳定构建密室的原因。",
+    "translation": "为了使仪式成功激活，稳定性需要为151或更高。稳定性越高，你的装甲持续时间就越长。如果你使用了图符：刚硬稳定，每个接触面将提供2点稳定性。虽然这样显然比使用泥土或是别的方块构建密室更贵，但这样基本上使密室的稳定性翻倍了。因此，最好用这些图符构建整个密室的外部（除了必须是仪式石和玻璃钟罩的地板）。"
+  },
+  {
+    "file": "resources/GT_ New Horizons[dreamcraft]/lang/zh_CN.lang",
+    "key": "tc.research_page.GLYPHSTONE.3",
+    "source": "为了使你的装甲获得更高的附魔，你的密室就不能仅仅是一个火柴盒，你需要在室内添加方块。但你不能直接将密室填满，因为只有与内部空气接触的表面才作为有效表面数。可以想象试剂气体从主仪式石逸散开来，所有连接着的空气方块都会充满这种气体，而只有与这些空气方块接触的密室方块才会提供稳定性与附魔性。请注意，你不能超出仪式范围构建密室，且密室内部高度最大为4格，密室上方不能有遮挡物。",
+    "translation": "为了提升欧米伽状态的持续时间，密室的稳定性需要提高。为了提升装甲的附魔威力，密室的附魔性也要提高，你需要图符以接受附魔。有两种附魔图符，魔咒专家：提升装甲的附魔亲和性、神秘潜能：提升当前附魔等级。那为什么不将你的密室全部用这两种图符建造呢，因为每个魔咒专家会降低10点稳定性，每个神秘潜能会降低20点稳定性。这也是我建议你最好用尽可能多的刚硬稳定构建密室的原因。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.fix.name.remover.tooltip",
+    "source": "Removes various NBT tags as well as covers.\\n \\n§nFirst Slot§r\\nThe item you want to strip of NBT\\n \\n§nSecond Slot§r\\nOne of the following circuits:\\n§lCircuit 1:§r  Attempt to fix broken ores by removing the Display Name tag\\n§lCircuit 3:§r  Remove Railcraft stacking tag\\n§lCircuit 4:§r  Remove Anvil repair tag\\n§lCircuit 5:§r  Remove Dye from Leather armor\\n§lCircuit 6:§r  Remove Spray color from GT items\\n§lCircuit 7:§r  Remove Muffler Upgrade from GT machines\\n§lCircuit 24:§r  Remove everything including covers. Be careful you won't recover the covers!\\n \\n§lNo Circuit:§r Remove everything except covers",
+    "translation": "移除各种NBT标签以及覆盖板。\\n \\n§n第一个槽位§r\\n放入要移除NBT的物品\\n \\n§n第二个槽位§r\\n放入以下电路之一：\\n§l电路1：§r尝试通过移除显示名称标签来修复损坏的矿石\\n§l电路3：§r移除铁路堆叠标签\\n§l电路4：§r移除铁砧修复标签\\n§l电路5：§r移除皮革盔甲染色\\n§l电路6：§r移除GT物品的喷漆颜色\\n§l电路7：§r移除GT机器的消声升级\\n§l电路24：§r移除包括覆盖板在内的所有内容。注意：覆盖板不会返还！\\n \\n§l不放电路：§r移除覆盖板以外的所有内容"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.focus_input_bus.tooltip",
+    "source": "Input Bus for Foci",
+    "translation": "用于输入核心的总线"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.blackholeutility.tooltip",
+    "source": "Optional hatch for Pseudostable Black Hole Containment Field.\\nStatic Mode: Emit a constant redstone signal when a black hole is open\\nPulse Mode: Emit a pulse every second while a black hole is open\\nPulse is perfectly synced to the internal timing of the machine\\nRight click to open the GUI and change settings.",
+    "translation": "准稳定黑洞约束场的可选仓室。\\n常亮信号模式：黑洞开启时持续输出红石信号\\n脉冲模式：黑洞开启时每秒输出一次脉冲\\n脉冲与机器内部计时完全同步\\n右键打开界面以更改设置。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.catalystbulk.tooltip",
+    "source": "Dedicated Catalyst Storage\\nWill keep its contents when broken",
+    "translation": "专用催化剂存储仓\\n破坏后保留内部物品"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.cokeoven.tooltip",
+    "source": "Hatch for automating the Coke Oven\\n§m------------------------------\\n§aModes§7: Input, Output, Output (Fluids)\\nCycle mode with a Screwdriver",
+    "translation": "用于自动化焦炉的仓室\\n§m------------------------------\\n§a模式§7：输入、输出、输出（流体）\\n使用螺丝刀循环切换模式"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.datain.wireless.tier.12.tooltip",
+    "source": "Wireless Computation Data Input for Multiblocks",
+    "translation": "为多方块机器无线输入计算数据"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.dataout.wireless.tier.12.tooltip",
+    "source": "Wireless Computation Output for Multiblocks",
+    "translation": "为多方块机器无线输出计算数据"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.dataoutass.wireless.tier.12.tooltip",
+    "source": "§9Tec§1Tech§9: Elemental Matter\\nWireless ItemStack Data Output for Multiblocks\\nHigh speed internet connection",
+    "translation": "§9Tec§1Tech§9：元素物质\\n为多方块机器无线输出物品堆叠数据\\n高速网络连接"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.degasifiercontrol.tooltip",
+    "source": "Can be installed in the Degasser Purification Unit.\\nOutputs Redstone Signal Strength based on the current control signal.",
+    "translation": "可安装在脱气净水单元上。\\n根据当前控制信号输出相应强度的红石信号。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.dronedownlink.tooltip",
+    "source": "Built-in powerful navigation beacon!",
+    "translation": "内置强大的导航信标！"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.heatsensor.tooltip",
+    "source": "Reads heat of a machine.\\nSend redstone signal if the heat is greater than the threshold.\\nRight click to open the GUI and change settings.",
+    "translation": "读取机器的热量。\\n热量超过阈值时输出红石信号。\\n右键打开界面以更改设置。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.lensindicator.tooltip",
+    "source": "Can be installed in the UV Treatment Purification Unit.\\nOutputs Redstone Signal when a lens swap is requested.",
+    "translation": "可安装在紫外线处理净水单元上。\\n需要更换透镜时输出红石信号。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.mag_hatch.tooltip",
+    "source": "Holds electromagnet for the Magnetic Flux Exhibitor",
+    "translation": "为磁场选矿机存放电磁铁"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.maintenance.tooltip",
+    "source": "For maintaining multiblocks\\nUse tools to fix issues.",
+    "translation": "用于维护多方块机器\\n使用工具修复故障。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.maintenance.auto.tooltip",
+    "source": "For automatically maintaining multiblocks\\nConsumes 4 Duct Tape, 2 Lubricant Cells,\\n4 Steel Screws, and 2 HV Circuits\\nfor each autorepair.",
+    "translation": "自动维护多方块机器\\n每次自动维修消耗4个胶带、2个润滑油单元、\\n4个钢螺丝和2个HV电路。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.multi.input.tier.11.tooltip",
+    "source": "Fluid Input for Multiblocks\\nCapacity: 500,000,000 L\\nCan hold 4 types of fluid.",
+    "translation": "为多方块机器输入流体\\n容量：500,000,000 L\\n可容纳4种流体。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.nanite.tooltip",
+    "source": "Holds nanites for use in multiblocks\\nWill keep its contents when broken",
+    "translation": "为多方块机器存放纳米蜂群\\n破坏后保留内部物品"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.nanite.singularity.tooltip",
+    "source": "Holds nanites for use in multiblocks\\nWill keep its contents when broken",
+    "translation": "为多方块机器存放纳米蜂群\\n破坏后保留内部物品"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hatch.phsensor.tooltip",
+    "source": "Can be installed in the pH Neutralization Purification Unit.\\nOutputs Redstone Signal according to the current pH value.\\nRight click to open the GUI and change settings.",
+    "translation": "可安装在pH中和净水单元上。\\n根据当前pH值输出红石信号。\\n右键打开界面以更改设置。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hpmachine.alloysmelter.tooltip",
+    "source": "Combination Smelter\\nMachine Type: §eAlloy Smelter§r",
+    "translation": "合金冶炼\\n机器类型：§e合金炉§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hpmachine.compressor.tooltip",
+    "source": "Compressing Items\\nMachine Type: §eCompressor§r",
+    "translation": "压缩物品\\n机器类型：§e压缩机§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hpmachine.extractor.tooltip",
+    "source": "Extracting your first Rubber\\nMachine Type: §eExtractor§r",
+    "translation": "提取你的第一块橡胶\\n机器类型：§e提取机§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hpmachine.furnace.tooltip",
+    "source": "Smelting things with compressed Steam\\nMachine Type: §eFurnace§r",
+    "translation": "使用压缩蒸汽熔炼物品\\n机器类型：§e熔炉§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hpmachine.hammer.tooltip",
+    "source": "Forge Hammer\\nMachine Type: §eForge Hammer§r",
+    "translation": "锻造锤\\n机器类型：§e锻造锤§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.hpmachine.macerator.tooltip",
+    "source": "Macerating your Ores\\nMachine Type: §eMacerator§r",
+    "translation": "粉碎矿石\\n机器类型：§e粉碎机§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.machine.tffthatch.tooltip",
+    "source": "All-in-one access for the TFFT",
+    "translation": "TFFT的一体化访问接口"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.modificationtable.tooltip",
+    "source": "§bModifies Modular Mechanisms\\nCan be used to alter Mechanical Armor\\nInsert armor, then frame, then energy core, then augments\\nRemove all augments before removing frame or core",
+    "translation": "§b改装模块化机械装置\\n可用于改装机械装甲\\n依次放入装甲、框架、能源核心和增强组件\\n移除框架或核心前，先移除所有增强组件"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.quantum.tank.debug.tooltip",
+    "source": "Stores 2,147,483,640 L of fluid\\nWill keep its contents when harvested",
+    "translation": "存储2,147,483,640 L流体\\n拆卸后保留内部流体"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.yottafluidtankhatch.tooltip",
+    "source": "Special I/O port for AE2FC.\\nDirectly connected YOTTank with AE fluid storage system.\\nUse screwdriver to set storage priority\\nUse soldering iron to set read/write mode\\nUse wire cutter to enable/disable sticky mode",
+    "translation": "AE2FC专用输入／输出端口。\\n将YOTTank直接连接至AE流体存储系统。\\n使用螺丝刀设置存储优先级\\n使用电烙铁设置读写模式\\n使用剪线钳启用／禁用粘滞模式"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.any_bottom_side_casing",
+    "source": "Any bottom side casing",
+    "translation": "任意底部侧面外壳"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.any_back_center_casing_and_more",
+    "source": "Any back center casing, or directly above/below controller",
+    "translation": "任意后方中央外壳，或控制器正上方／正下方"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.top_center_28th_layer",
+    "source": "Top center, 28th layer",
+    "translation": "顶部中央，第28层"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.any_bottom_leg_casing",
+    "source": "Any bottom leg casing",
+    "translation": "任意底部支腿外壳"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.either_center_side_casing",
+    "source": "Either center side casing",
+    "translation": "任意一侧中央外壳"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.any_steel_machine_casing",
+    "source": "Any steel machine casing",
+    "translation": "任意钢机械方块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.any_top_pump_casing",
+    "source": "Any top pump casing",
+    "translation": "任意顶部泵外壳"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.top_of_reactor_triso",
+    "source": "Top of reactor (TRISO Balls)",
+    "translation": "反应堆顶部（TRISO燃料球）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.bottom_of_reactor_burned_triso",
+    "source": "Bottom of reactor (Burned Out TRISO Balls)",
+    "translation": "反应堆底部（燃尽的TRISO燃料球）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.htgr_input_hatches",
+    "source": "Any top pump casing (helium), bottom of tall tower (coolant), top of short tower (distilled water)",
+    "translation": "任意顶部泵外壳（氦气），高塔底部（冷却液），矮塔顶部（蒸馏水）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.structure.htgr_output_hatches",
+    "source": "Top of tall tower (hot coolant), bottom of short tower (steam)",
+    "translation": "高塔顶部（高温冷却液），矮塔底部（蒸汽）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.machine_type.breeder_reactor_htgr",
+    "source": "Breeder Reactor, HTGR",
+    "translation": "增殖反应堆，HTGR"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.machine_type.arc_furnace_iaf",
+    "source": "Arc Furnace, IAF",
+    "translation": "电弧炉，IAF"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.mbtt.machine_type.solar_tower",
+    "source": "Solar Tower",
+    "translation": "太阳能塔"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.icecreammachine.broken.21.tooltip",
+    "source": "A bee flew in and now runs the place. Management resumes tomorrow.",
+    "translation": "一只蜜蜂飞进来接管了这里。明天恢复营业。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.icecreammachine.broken.22.tooltip",
+    "source": "The machine is mid-existential-warranty-dispute with itself. Resolved by tomorrow.",
+    "translation": "机器正与自己争论存在意义与保修问题。明天解决。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.nei.solar_tower.1",
+    "source": "Solar Heater rings boost tier",
+    "translation": "太阳能加热环可提升等级"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.recipes.chance.unorganized",
+    "source": "Has a %d%% chance to output an unorganized version instead",
+    "translation": "有%d%%的概率改为输出无序版本"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "channels.gregtech.chassis",
+    "source": "Decides the tier of Magnetic Chassis.",
+    "translation": "决定磁力框架的等级。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "channels.gregtech.coke_oven_casing",
+    "source": "Decides the tier of Coke Oven Casing.",
+    "translation": "决定焦炉外壳的等级。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "channels.gregtech.construct",
+    "source": "Decides the tier of Alchemical Construct.",
+    "translation": "决定炼金结构的等级。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "channels.gregtech.essentia_cell",
+    "source": "Decides the tier of Essentia Diffusion Cell.",
+    "translation": "决定源质扩散单元的等级。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "channels.gregtech.piston_block",
+    "source": "Decides the tier of Containment Block.",
+    "translation": "决定约束方块的等级。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "channels.gregtech.subchannel.tier_machine_casing",
+    "source": "Machine Casing Tier",
+    "translation": "机械方块等级"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "channels.gregtech.subchannel.tier_casing",
+    "source": "Machine Casing Tier",
+    "translation": "机械方块等级"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.energybar.tooltip.no_matrix",
+    "source": "No matrix modules installed",
+    "translation": "未安装矩阵模块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.energybar.tooltip.no_nonmatrix",
+    "source": "No non-matrix modules installed",
+    "translation": "未安装非矩阵模块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.energybar.tooltip.running",
+    "source": "§cCannot update value while running",
+    "translation": "§c运行时无法更新数值"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.energybar.tooltip.matrix",
+    "source": "§dMatrix portion: %d%% (%s EU/t)",
+    "translation": "§d矩阵部分：%d%%（%s EU/t）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.energybar.tooltip.matrix_mult",
+    "source": "§dMatrix portion: %d%% (%s EU/t each)",
+    "translation": "§d矩阵部分：%d%%（每个%s EU/t）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.energybar.tooltip.nonmatrix",
+    "source": "§3Non-matrix portion: %d%% (%s EU/t)",
+    "translation": "§3非矩阵部分：%d%%（%s EU/t）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.energybar.tooltip.nonmatrix_mult",
+    "source": "§3Non-matrix portion: %d%% (%s EU/t each)",
+    "translation": "§3非矩阵部分：%d%%（每个%s EU/t）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.module.disable_all_button_on.1",
+    "source": "§aAll modules enabled",
+    "translation": "§a所有模块均已启用"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.module.disable_all_button_on.2",
+    "source": "§7Press to disable all modules",
+    "translation": "§7点击禁用所有模块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.module.disable_all_button_off.1",
+    "source": "§cAll modules disabled",
+    "translation": "§c所有模块均已禁用"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.module.disable_all_button_off.2",
+    "source": "§7Press to enable all modules",
+    "translation": "§7点击启用所有模块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.module_basics.body.6",
+    "source": "After parallels and capped 2/2 overclocks are applied, the module will use any excess power to perform uncapped 2/4 overclocks. The recipe time here can also not be overclocked below 5 seconds.",
+    "translation": "应用并行和有上限的2/2超频后，模块会使用剩余电力进行无上限的2/4超频。此处的配方耗时同样无法被超频至低于5秒。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.header",
+    "source": "Circuit Line Specifics",
+    "translation": "各电路线的具体信息"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.body.1",
+    "source": "Below is a collection of the comprehensive information that varies between circuit lines.",
+    "translation": "下方汇总了各电路线之间有所差异的完整信息。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.body.2",
+    "source": "The information is organized as follows: §dSuggested Power Distribution§r, §aSuggested Additional Module Amounts§r, §3Calibration Weights§r (if they differ), and §2Calibration Values",
+    "translation": "信息按以下顺序列出：§d建议电力分配§r、§a建议额外模块数量§r、§3校准权重§r（如有差异），以及§2校准数值"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.primitive.module_count",
+    "source": "Suggested Additional Modules:§a None",
+    "translation": "建议额外模块：§a无"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.primitive.body1",
+    "source": "The Prime Unattuned Circuitry component increases Primitive calibration progress by 0.1 each, ignoring the standard formula above.",
+    "translation": "每个预激活未调谐电路组件会增加0.1点原始电路校准进度，不采用上方的标准公式。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.primitive.body2",
+    "source": "Other Primitive Circuits only increase Primitive calibration progress by 1 per batch.",
+    "translation": "其他原始电路每批仅增加1点原始电路校准进度。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.primitive.calibration.effect1",
+    "source": "§3Tier 1§r - §240%% Threshold§r  - 10%% chance to set Primitive Circuit recipe times to 10 ticks ",
+    "translation": "§3等级1§r——§240%%阈值§r——有10%%的概率将原始电路配方耗时设为10刻"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.primitive.calibration.effect2",
+    "source": "§3Tier 2§r - §280%% Threshold§r  - +5%% chance to multiply output for ULV-EV Primitive Circuits",
+    "translation": "§3等级2§r——§280%%阈值§r——ULV至EV原始电路产出倍增概率增加5%%"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.primitive.calibration.effect3",
+    "source": "§3Tier 3§r - §2100%% Threshold§r - +5%% (10%% total) chance to multiply output for ULV-EV Primitive Circuits",
+    "translation": "§3等级3§r——§2100%%阈值§r——ULV至EV原始电路产出倍增概率再增加5%%（共10%%）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.crystal.power_distribution",
+    "source": "Suggested Power Distribution: §d20%% Matrix§r / §380%% Non-Matrix",
+    "translation": "建议电力分配：§d20%%矩阵§r／§380%%非矩阵"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.crystal.module_count",
+    "source": "Suggested Additional Modules:§a 1 Etching Array",
+    "translation": "建议额外模块：§a1个蚀刻阵列"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.crystal.calibration.effect1",
+    "source": "§3Tier 1§r - §230%% Threshold§r - 0.8x EU Multiplier to all Modules",
+    "translation": "§3等级1§r——§230%%阈值§r——所有模块的耗电倍率乘以0.8"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.crystal.calibration.effect2",
+    "source": "§3Tier 2§r - §260%% Threshold§r - 0.8x Recipe Time on Crystal Circuits in the Assembly Matrix",
+    "translation": "§3等级2§r——§260%%阈值§r——组装矩阵中的晶体电路配方耗时乘以0.8"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.crystal.calibration.effect3",
+    "source": "§3Tier 3§r - §290%% Threshold§r - Etching Array Laser Source Hatch provides additional benefits to processing stats",
+    "translation": "§3等级3§r——§290%%阈值§r——蚀刻阵列的激光源仓为处理参数提供额外加成"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.wetware.power_distribution",
+    "source": "Suggested Power Distribution: §d40%% Matrix§r / §360%% Non-Matrix",
+    "translation": "建议电力分配：§d40%%矩阵§r／§360%%非矩阵"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.wetware.module_count",
+    "source": "Suggested Additional Modules:§a 1 Biological Coordinator",
+    "translation": "建议额外模块：§a1个生物调谐器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.wetware.calibration.effect1",
+    "source": "§3Tier 1§r - §230%% Threshold§r - 0.8x EU Multiplier to all Modules",
+    "translation": "§3等级1§r——§230%%阈值§r——所有模块的耗电倍率乘以0.8"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.wetware.calibration.effect2",
+    "source": "§3Tier 2§r - §260%% Threshold§r - 0.8x Recipe Time on Wetware Circuits in the Assembly Matrix",
+    "translation": "§3等级2§r——§260%%阈值§r——组装矩阵中的湿件电路配方耗时乘以0.8"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.wetware.calibration.effect3",
+    "source": "§3Tier 3§r - §290%% Threshold§r - -50%% Catalyst Medium consumed in the Biological Coordinator",
+    "translation": "§3等级3§r——§290%%阈值§r——生物调谐器的催化介质消耗减少50%%"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.bioware.power_distribution",
+    "source": "Suggested Power Distribution: §d50%% Matrix§r / §350%% Non-Matrix",
+    "translation": "建议电力分配：§d50%%矩阵§r／§350%%非矩阵"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.bioware.module_count1",
+    "source": "Suggested Additional Modules:§a 1 Biological Coordinator and 1 Strand Splitter",
+    "translation": "建议额外模块：§a1个生物调谐器和1个超导分离器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.bioware.module_count2",
+    "source": "Suggested Additional Modules for SOC:§a 1 Biological Coordinator, 1 Strand Splitter, and 1 Board Immersion",
+    "translation": "SOC建议额外模块：§a1个生物调谐器、1个超导分离器和1个基板浸渍器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.bioware.calibration.effect1",
+    "source": "§3Tier 1§r - §225%% Threshold§r - 0.8x EU Multiplier to all Modules",
+    "translation": "§3等级1§r——§225%%阈值§r——所有模块的耗电倍率乘以0.8"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.bioware.calibration.effect2",
+    "source": "§3Tier 2§r - §250%% Threshold§r - 0.8x Recipe Time on Bioware Circuits in the Assembly Matrix",
+    "translation": "§3等级2§r——§250%%阈值§r——组装矩阵中的生物电路配方耗时乘以0.8"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.bioware.calibration.effect3",
+    "source": "§3Tier 3§r - §275%% Threshold§r - All Catalyst Medium is not consumed in the Biological Coordinator",
+    "translation": "§3等级3§r——§275%%阈值§r——生物调谐器中的催化介质不再消耗"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.optical.power_distribution",
+    "source": "Suggested Power Distribution: §d60%% Matrix§r / §340%% Non-Matrix",
+    "translation": "建议电力分配：§d60%%矩阵§r／§340%%非矩阵"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.optical.module_count",
+    "source": "Suggested Additional Modules:§a 1 Optical Organizer and 1 Strand Splitter",
+    "translation": "建议额外模块：§a1个光学组织器和1个超导分离器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.optical.calibration.effect1",
+    "source": "§3Tier 1§r - §225%% Threshold§r - 0.8x EU Multiplier to all Modules",
+    "translation": "§3等级1§r——§225%%阈值§r——所有模块的耗电倍率乘以0.8"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.optical.calibration.effect2",
+    "source": "§3Tier 2§r - §250%% Threshold§r - 0.8x Recipe Time on Optical Circuits in the Assembly Matrix",
+    "translation": "§3等级2§r——§250%%阈值§r——组装矩阵中的光学电路配方耗时乘以0.8"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.optical.calibration.effect3",
+    "source": "§3Tier 3§r - §275%% Threshold§r - Water Bonuses are applied twice in the Optical Organizer",
+    "translation": "§3等级3§r——§275%%阈值§r——光学组织器中的水加成应用两次"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.special.power_distribution",
+    "source": "Suggested Power Distribution: §d80%% Matrix§r / §320%% Non-Matrix",
+    "translation": "建议电力分配：§d80%%矩阵§r／§320%%非矩阵"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.special.module_count",
+    "source": "Suggested Additional Modules:§a None",
+    "translation": "建议额外模块：§a无"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.special.body1",
+    "source": "\"Special\" Circuits increase Special calibration progress by 1 per circuit made, ignoring the standard formula above.",
+    "translation": "每制造一个“特殊”电路，就增加1点特殊电路校准进度，不采用上方的标准公式。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.special.body2",
+    "source": "§l§5Recipe time discounts provided by this Calibration increase recipe EU proportionally so the EU per circuit stays the same",
+    "translation": "§l§5此校准提供的配方耗时折扣会按比例提高配方耗电量，使每个电路的总耗电量保持不变"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.special.calibration.effect1",
+    "source": "§3Tier 1§r - §21%% threshold§r - -20%% Recipe Time on Special Circuits in the Assembly Matrix",
+    "translation": "§3等级1§r——§21%%阈值§r——组装矩阵中的特殊电路配方耗时减少20%%"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.special.calibration.effect2",
+    "source": "§3Tier 2§r - §25%% threshold§r - -20%% Recipe Time on Special Circuits in the Assembly Matrix (total 40%%)",
+    "translation": "§3等级2§r——§25%%阈值§r——组装矩阵中的特殊电路配方耗时再减少20%%（共40%%）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nac.info.line_specifics.special.calibration.effect3",
+    "source": "§3Tier 3§r - §220%% threshold§r - -10%% Recipe Time on Special Circuits in the Assembly Matrix (total 50%%)",
+    "translation": "§3等级3§r——§220%%阈值§r——组装矩阵中的特殊电路配方耗时再减少10%%（共50%%）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.module.assembly_matrix.body.3",
+    "source": "%s-5%%§7 EU Usage per %s Tier above the Recipe Tier (multiplicative)",
+    "translation": "耗电量%s-5%%§7／每高于配方等级一个%s等级（乘算）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.module.board_processor.structure.output_hatch",
+    "source": "Required for manual and automatic flushing",
+    "translation": "手动和自动冲洗均需要"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.module.board_processor.body.output_hatch",
+    "source": "Manual and automatic flushing require an Output Hatch",
+    "translation": "手动和自动冲洗均需要输出仓"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.module.etching_array.body.4",
+    "source": "In a fully calibrated Crystal NAC, increases these bonuses by 1 step each",
+    "translation": "在完全校准的晶体NAC中，这些加成各提升一级"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.module.part_processor.flavor.1",
+    "source": "Processing the core logical components of circuits requires a lot of thought...",
+    "translation": "处理电路的核心逻辑元件需要深思熟虑……"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.module.part_processor.action",
+    "source": "Processes your %s",
+    "translation": "处理你的%s"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.module.splitter.body.5",
+    "source": "If multiple same-%s %s are present, will try and evenly split input %s among them",
+    "translation": "若存在多个同%s的%s，会尝试将输入的%s平均分配给它们"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.hatch.redstone.body.2",
+    "source": "Allows for Redstone Input for rule control",
+    "translation": "允许输入红石信号以控制规则"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.hatch.redstone.body.3",
+    "source": "Set the channel and redstone threshold in the GUI",
+    "translation": "在界面中设置频道和红石阈值"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.hatch.redstone.body.4",
+    "source": "A redstone rule in the Splitter is active if the supplied redstone signal is >= the threshold on that channel",
+    "translation": "当输入的红石信号不低于该频道阈值时，分流器中的红石规则生效"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.circuitcomponent.planck.processed.planckcpu",
+    "source": "Planck-Scale CPU",
+    "translation": "普朗克尺度CPU"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.circuitcomponent.unattunedcircuitry",
+    "source": "Unattuned Circuitry",
+    "translation": "未调谐电路"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.circuitcomponent.primedunattunedcircuitry",
+    "source": "Primed Unattuned Circuitry",
+    "translation": "预激活未调谐电路"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.LHC.boostmode",
+    "source": "Beam Booster",
+    "translation": "粒子束增能器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.LHC.boostmode.none",
+    "source": "Booster Fluid: None",
+    "translation": "增能流体：无"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.LHC.boostmode.fluid",
+    "source": "Booster Fluid: %s",
+    "translation": "增能流体：%s"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.LHC.boostmode.restart",
+    "source": "Restart machine to apply",
+    "translation": "重启机器以应用"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.chat.pipe.processing.enable",
+    "source": "Cover Processing: Enabled",
+    "translation": "覆盖板处理：启用"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.chat.pipe.processing.disable",
+    "source": "Cover Processing: Disabled",
+    "translation": "覆盖板处理：禁用"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.item.toolbox.tooltip.crafting",
+    "source": "§4§lNOTE:§r §bWill craft with any/no tool selected",
+    "translation": "§4§l注意：§r§b无论选择了哪种工具或未选择工具，都可用于合成"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.item.pipe.swap.now_restrictive",
+    "source": "Now Restrictive",
+    "translation": "现在具有限流功能"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.item.pipe.swap.no_longer_restrictive",
+    "source": "No Longer Restrictive",
+    "translation": "不再具有限流功能"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.armor.part.tooltip.VectoredJetpack",
+    "source": "An upgraded jetpack with improved flight stats",
+    "translation": "经过升级、飞行性能更好的喷气背包"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.armor.part.tooltip.Soulbound",
+    "source": "Prevents this armor piece from being dropped on death",
+    "translation": "防止此件装甲在死亡时掉落"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.armor.message.jump_boost_set",
+    "source": "§6New jump boost:§r %s",
+    "translation": "§6新的跳跃提升等级：§r%s"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.armor.tooltip.requires_or",
+    "source": "Requires One Of:",
+    "translation": "需要以下物品之一："
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.hatch.outputme.refresh_time",
+    "source": "Refresh Time (Seconds)",
+    "translation": "刷新间隔（秒）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.hatch.outputme.refresh_time.tooltip",
+    "source": "How often the cached outputs are pushed to the ME network. Minimum %s seconds.",
+    "translation": "将缓存产出推送至ME网络的频率。最短为%s秒。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.multiblock.parallelism_override",
+    "source": "Max Parallel: §f%d §7(%d)",
+    "translation": "最大并行：§f%d §7（%d）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.multiblock.scanner.mei_amp",
+    "source": "Max Energy Input: §e%s §rEU/t (%sA §e%s§r) Power Tier: §e%s§r",
+    "translation": "最大能源输入：§e%s §rEU/t（%sA §e%s§r）功率等级：§e%s§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.multiblock.scanner.mrv",
+    "source": "Max Tier-Skip Voltage: §e%s §rEU/t Voltage Tier: §e%s§r",
+    "translation": "最大跨级电压：§e%s §rEU/t 电压等级：§e%s§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.multiblock.scanner.mrv_infinite",
+    "source": "Max Tier-Skip Voltage: §aUnlimited",
+    "translation": "最大跨级电压：§a无限制"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.food.icecream_random.tooltip",
+    "source": "Could be anything. That's the fun part",
+    "translation": "什么都有可能。这才是乐趣所在"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.food.icecream_foolish.name",
+    "source": "Foolish Ice Cream",
+    "translation": "愚人冰淇淋"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.food.icecream_lawnbasespecial.name",
+    "source": "Lawnbase Special Ice Cream",
+    "translation": "Lawnbase特制冰淇淋"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.food.icecream_voidkitty.name",
+    "source": "Void Kitty Ice Cream",
+    "translation": "虚空猫咪冰淇淋"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.food.icecream_voidminersvanilla.name",
+    "source": "Void Miners Vanilla Ice Cream",
+    "translation": "虚空矿工香草冰淇淋"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.food.icecream_voidminersvanilla.tooltip",
+    "source": "Mined from the void, drilled to perfection",
+    "translation": "开采自虚空，钻探至完美"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.food.icecream_witchywildberry.name",
+    "source": "Witchy Wildberry Ice Cream",
+    "translation": "女巫野莓冰淇淋"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.food.icecream_witchywildberry.tooltip",
+    "source": "Brewed under a full moon. Allegedly",
+    "translation": "据说是在满月下酿制的"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "nei.options.tools.dump.gt5u.fuels",
+    "source": "Turbine Fuel Data",
+    "translation": "涡轮燃料数据"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "nei.options.tools.dump.gt5u.fuelss",
+    "source": "Turbine Fuels dumped to dumps/fuels.json",
+    "translation": "涡轮燃料数据已导出至dumps/fuels.json"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "nei.options.tools.dump.gt5u.rotors",
+    "source": "Turbine Rotor Data",
+    "translation": "涡轮转子数据"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "nei.options.tools.dump.gt5u.rotorss",
+    "source": "Turbine Rotors dumped to dumps/rotors.json",
+    "translation": "涡轮转子数据已导出至dumps/rotors.json"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.waila.boiler.steam_producing",
+    "source": "§aSteam Production: §6%s§rL/s",
+    "translation": "§a蒸汽产量：§6%s§rL/s"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.foundry.pairings.entropiccore.tooltip4",
+    "source": "When §f3 or more§r §dHeliocast Reinforcement§r modules are present:",
+    "translation": "存在§f3个或更多§r§d日耀投射强化§r模块时："
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.foundry.pairings.entropiccore.tooltip9",
+    "source": "§fWhen §f4§r §dHeliocast Reinforcement§r modules are present:",
+    "translation": "§f存在§f4个§r§d日耀投射强化§r模块时："
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.foundry.pairings.entropiccore.tooltip10",
+    "source": "Increases Maximum Overclocks by Entropy",
+    "translation": "根据熵提高最大超频次数"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "key.gt.jump_increase",
+    "source": "Increase Jump Boost",
+    "translation": "提高跳跃提升等级"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "key.gt.jump_decrease",
+    "source": "Decrease Jump Boost",
+    "translation": "降低跳跃提升等级"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "key.gt.toggle_levitation_mode",
+    "source": "Toggle Levitation Mode",
+    "translation": "切换悬浮模式"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "key.gt.open_radial_menu",
+    "source": "Open Radial Menu",
+    "translation": "打开环形菜单"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.vajra.tooltip.creative_break_cooldown",
+    "source": "Creative break cooldown: %st",
+    "translation": "创造模式破坏冷却：%s刻"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.vajra.tooltip.right_click_breaking",
+    "source": "Right-click breaking: %s",
+    "translation": "右键破坏：%s"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.vajra.tooltip.configure",
+    "source": "Sneak right click to configure",
+    "translation": "潜行右键以配置"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.scanner.debug.machine_not_allowed_to_work",
+    "source": "Machine is §cnot allowed§r to work",
+    "translation": "机器§c不允许运行§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.drone_remote_not_loaded",
+    "source": "Chunk containing Drone Centre at x: %s, y: %s, z: %s in dim%s is not loaded!",
+    "translation": "位于x: %s，y: %s，z: %s、维度dim%s的无人机中心所在区块未加载！"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "achievement.gt.blockmachines.multimachine.mega_oil_cracker",
+    "source": "Mega Oil Cracker",
+    "translation": "巨型石油裂化机"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "achievement.gt.blockmachines.multimachine.mega_oil_cracker.desc",
+    "source": "Pick up this item to see the recipe in NEI",
+    "translation": "拾取此物品以在NEI中查看配方"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.raw_manifold_bud.name",
+    "source": "Raw Manifold Bud",
+    "translation": "原始流形芽"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.raw_manifold_bud.tooltip",
+    "source": "Needs to be shown what to do",
+    "translation": "需要有人告诉它该做什么"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.blossoming_manifold_bud.name",
+    "source": "Blossoming Manifold Bud",
+    "translation": "绽放的流形芽"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.blossoming_manifold_bud.tooltip",
+    "source": "Strings spilling out like light!",
+    "translation": "弦如光芒般涌出！"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.realized_quantum_circuit_rack.name",
+    "source": "Realized Quantum Mainframe Rack",
+    "translation": "实化量子主机机架"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.realized_quantum_circuit_rack.tooltip",
+    "source": "Realized potential!",
+    "translation": "潜力化为现实！"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.next_nanite",
+    "source": "§7Next Nanite: %s §7at progress §6%s§f",
+    "translation": "§7下一个纳米蜂群：%s§7，所需进度§6%s§f"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.next_nanite_none",
+    "source": "§7Next Nanite: None§f",
+    "translation": "§7下一个纳米蜂群：无§f"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.eye-of-harmony.boundary-no-stocking-bus",
+    "source": "Any boundary casing (no stocking bus)",
+    "translation": "任意边界外壳（不支持库存输入总线）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.eye-of-harmony.boundary-no-stocking-hatch",
+    "source": "Any boundary casing (no stocking hatch)",
+    "translation": "任意边界外壳（不支持库存输入仓）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.empty.tooltip",
+    "source": "You need to recharge it",
+    "translation": "你需要给它充电"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.chainsaw.tooltip",
+    "source": "Can also harvest ice",
+    "translation": "同样可以采集冰块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.wrench.tooltip",
+    "source": "Hold left-click to dismantle machines",
+    "translation": "按住左键以拆卸机器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.jackhammer.tooltip",
+    "source": "Breaks rocks into pieces",
+    "translation": "将岩石打成碎块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.buzzsaw.tooltip",
+    "source": "Not suitable for harvesting blocks",
+    "translation": "不适合采集方块"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.screwdriver.tooltip",
+    "source": "Adjusts covers and machines",
+    "translation": "调整覆盖板与机器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.soldering_iron.tooltip",
+    "source": "Fixes burned out circuits. Needs soldering material in inventory.",
+    "translation": "修复烧毁的电路。物品栏中需要有焊接材料。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.wire_cutter.tooltip",
+    "source": "Hand-held electric wire cutter",
+    "translation": "手持式电动剪线钳"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.metatool.01.file.tooltip",
+    "source": "Hand-held electric filing device",
+    "translation": "手持式电动锉刀"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.multimachine.missing_turbine_rotor",
+    "source": "Missing Turbine Rotor",
+    "translation": "缺少涡轮转子"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.transformer.step_down",
+    "source": "Step Down, In: %1$sV %2$sA, Out: %3$sV %4$sA",
+    "translation": "降压，输入：%1$sV %2$sA，输出：%3$sV %4$sA"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.nei.scan_for_assembly_line",
+    "source": "Scan for Assembly Line",
+    "translation": "为装配线扫描"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.switch_metadata.sneak_right_click",
+    "source": "Sneak right-click to switch mode",
+    "translation": "潜行右键以切换模式"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.amalgatite.flavorText",
+    "source": "It could have been great!",
+    "translation": "它本可以大有作为！"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.bedrockium.flavorText",
+    "source": "Layer of sediment shielding a painful abyss",
+    "translation": "遮蔽痛苦深渊的沉积层"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.blackdwarfmatter.flavorText",
+    "source": "Shadow of a dead star",
+    "translation": "死亡恒星的阴影"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.dimensionallyshiftedsuperfluid.flavorText",
+    "source": "Hyperbolic elbow grease",
+    "translation": "双曲空间中的润滑油"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.hexanite.flavorText",
+    "source": "Insanity and willpower, given form",
+    "translation": "疯狂与意志的具现"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.ichorium.flavorText",
+    "source": "Fabric of planar coalescence",
+    "translation": "位面交汇的织物"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.infinity.flavorText",
+    "source": "The fury of the universe in the palm of your hand",
+    "translation": "将宇宙的怒火握于掌心"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.magmatter.flavorText",
+    "source": "Magnetic monopole matter",
+    "translation": "磁单极子物质"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.magnetohydrodynamicallyconstrainedstarmatter.flavorText",
+    "source": "Stabilised core of a dead star",
+    "translation": "死亡恒星的稳定核心"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.prismaticnaquadah.flavorText",
+    "source": "Absorbs all radiation",
+    "translation": "吸收一切辐射"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.protomatter.flavorText",
+    "source": "This is what they make chicken nuggets out of",
+    "translation": "鸡块就是用这东西做的"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.quarkgluonplasma.flavorText",
+    "source": "Matter beyond structure",
+    "translation": "超越结构的物质"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.rawstarmatter.flavorText",
+    "source": "Flesh of a main-sequence star",
+    "translation": "主序星的血肉"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.sixphasedcopper.flavorText",
+    "source": "Mixture of copper variants from archaic FTB mods",
+    "translation": "远古FTB模组中各种铜的混合物"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.spacetime.flavorText",
+    "source": "Reality itself distilled into physical form",
+    "translation": "现实本身凝聚成的实体"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.spatialfluid.flavorText",
+    "source": "Expands and attenuates simultaneously",
+    "translation": "同时膨胀与衰减"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.temporalfluid.flavorText",
+    "source": "Everlasting and everpresent",
+    "translation": "永恒存在，无处不在"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.transcendentmetal.flavorText",
+    "source": "Spatially incomprehensible",
+    "translation": "空间上无法理解之物"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.universium.flavorText",
+    "source": "A tear into the space beyond space",
+    "translation": "通往空间之外的裂隙"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.uuamplifier.flavorText",
+    "source": "Accelerates the Mass Fabricator",
+    "translation": "加速质量发生器"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.uumatter.flavorText",
+    "source": "Universally usable matter",
+    "translation": "万能物质"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.whitedwarfmatter.flavorText",
+    "source": "Heart of a dead star",
+    "translation": "死亡恒星的心脏"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.redstone.fluidpipe.newname",
+    "source": "High Pressure",
+    "translation": "高压"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.pollutioncleaner.desc",
+    "source": "Making sure you don't live in Gwalior - Uses 2A\\nRequires a turbine rotor and an Air Filter [T1/T2] to run.\\nThe turbine rotor must be manually inserted/replaced\\nCan be configured with a soldering iron to change modes\\nLow Efficiency: Removes half pollution, Turbine takes 50% dmg\\nHigh Efficiency: Removes full pollution, Turbine takes 100% dmg\\nTurbine Rotor will not break in LE mode\\nInsert an equal tier Conveyor Module to enable automation",
+    "translation": "让你不必住在瓜廖尔——消耗2A电流\\n需要涡轮转子和空气过滤器[T1/T2]才能运行。\\n涡轮转子必须手动放入／更换\\n可使用电烙铁切换模式\\n低效模式：移除一半污染，转子承受50%损耗\\n高效模式：移除全部污染，转子承受100%损耗\\n低效模式下涡轮转子不会损坏\\n放入同等级的传送带模块以启用自动化"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.pollutioncleaner.chunks.desc",
+    "source": "Making sure you don't live in Gwalior - Uses 2A\\nWill attempt to remove 1/4 pollution from 8 surrounding chunks\\nIf these chunks are not loaded, they will be ignored\\nRequires a turbine rotor and an Air Filter [T1/T2] to run.\\nThe turbine rotor must be manually inserted/replaced\\nCan be configured with a soldering iron to change modes\\nLow Efficiency: Removes half pollution, Turbine takes 50% dmg\\nHigh Efficiency: Removes full pollution, Turbine takes 100% dmg\\nTurbine Rotor will not break in LE mode\\nInsert an equal tier Conveyor Module to enable automation",
+    "translation": "让你不必住在瓜廖尔——消耗2A电流\\n尝试移除周围8个区块中各1/4的污染\\n未加载的区块会被忽略\\n需要涡轮转子和空气过滤器[T1/T2]才能运行。\\n涡轮转子必须手动放入／更换\\n可使用电烙铁切换模式\\n低效模式：移除一半污染，转子承受50%损耗\\n高效模式：移除全部污染，转子承受100%损耗\\n低效模式下涡轮转子不会损坏\\n放入同等级的传送带模块以启用自动化"
+  },
+  {
+    "file": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.chisel.desc",
+    "source": "Chisels things, Gregtech style\\nWhat you want to chisel goes in slot 1\\nWhat you want to get goes in the special slot (bottom right)\\nIf special slot is empty, first chisel result is used",
+    "translation": "以格雷的方式雕刻方块\\n将待雕刻的物品放入槽位1\\n将期望得到的物品放入特殊槽位（右下角）\\n特殊槽位为空时，使用第一个雕刻结果"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.3",
+    "source": "The common rule for both modes' automation challenges is as follows: the module outputs materials at the start of a recipe cycle and waits for the correct inputs to arrive before starting the actual processing of the output material.",
+    "translation": "两种模式的自动化挑战均遵循同一规则：模块会在配方周期开始时输出材料，等待正确的输入材料送回后，才会真正开始加工并产出最终材料。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.4",
+    "source": "If producing §bQuark Gluon Plasma§6, the module outputs up to 7 different fluids/dusts with amounts between 1-64 and 1-7 respectively, and their corresponding plasmas and amounts have to be returned in order for the recipe to process. For each L of fluid, a bucket of plasma and for each dust 9 ingots worth of plasma must be returned for the recipe to work.",
+    "translation": "生产§b夸克胶子等离子体§6时，模块会输出最多7种不同的流体或粉末，数量分别为1至64 L和1至7份。必须送回对应种类和数量的等离子体，配方才能运行。每1 L流体需要送回1桶对应等离子体，每份粉末需要送回相当于9锭的对应等离子体。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.moduleinfotext.exotic.5",
+    "source": "If §bMagmatter Mode§6 is active, the automation challenge changes. Now the module outputs 1-50L of §bTachyon Rich Temporal Fluid§6, 51-100L of §bSpatially Enlarged Fluid§6 and one dust of a high tier material. The challenge is to return both the Tachyon Rich and Spatially Enlarged Fluids, plus as much plasma of the dust's material (in ingots) as the difference between the amounts of Spatially Enlarged and Tachyon Rich Fluid. Once all of these have been returned in the correct amounts, the recipe will start to process and output Magmatter.",
+    "translation": "启用§b磁单极子物质模式§6后，自动化挑战会改变。模块会输出1至50 L的§b富含快子的时间流体§6、51至100 L的§b空间膨胀流体§6，以及一份高等级材料粉末。你需要送回全部时间流体和空间流体，并送回该粉末所对应的等离子体；所需等离子体的锭数，等于空间流体与时间流体的数量之差。所有材料按正确数量送回后，配方才会开始运行并产出磁单极子物质。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.upgradeinfotext.1",
+    "source": "Upgrades are the heart and soul of the Forge, they unlock most of its functionality and processing power. The §bUpgrade Tree§6 can be accessed via its button on the main GUI, and each upgrade node can be clicked for more information on its effects and unlock requirements.",
+    "translation": "升级是锻炉的核心，能够解锁其大部分功能与处理能力。点击主界面的对应按钮可打开§b升级树§6，点击每个升级节点即可查看效果和解锁条件。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.upgradeinfotext.2",
+    "source": "In general, each upgrade can only be unlocked if the prior one is unlocked and there are enough available §bGraviton Shards§6. One exception to this is the first upgrade, which has no prior upgrade. Some upgrades also have extra material costs, which are denoted next to the unlock button if applicable.",
+    "translation": "一般而言，只有解锁前置升级并拥有足够的§b引力子碎片§6，才能解锁某项升级。首项升级没有前置升级，是这一规则的例外。部分升级还会消耗额外材料，所需材料会显示在解锁按钮旁。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.upgradeinfotext.3",
+    "source": "If an upgrade has more than one connected prior upgrade, then there are two options. The upgrade requires either:",
+    "translation": "若某项升级连接了多个前置升级，其解锁要求有以下两种情况："
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.upgradeinfotext.4",
+    "source": "- All prior upgrades (§4Red§a connections)\\n- At least one prior upgrade (§9Blue§a connections)",
+    "translation": "- 解锁全部前置升级（§4红色§a连线）\\n- 解锁至少一项前置升级（§9蓝色§a连线）"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.upgradeinfotext.5",
+    "source": "Upgrades can be refunded by pressing the §bRespec§6 button, but this only works if ALL connected later upgrades are not active/unlocked.",
+    "translation": "点击§b重置§6按钮可以退还升级消耗，但前提是所有与其连接的后续升级都未启用或解锁。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.upgradeinfotext.6",
+    "source": "The block of upgrades following the unlock of the Heliofusion Exoticizer module are special, as they are what is considered §bThe Split§6. As the name suggests, only one path out of the three may be chosen at first, and the others will be locked. Each path has specialized buffs that are primarily targeted towards a specific module, and thus affect other module types with reduced effect (unless stated otherwise). The amount of unlockable paths depends on the §bAmount of Rings§6 the Forge has, which in turn is limited by later upgrades.",
+    "translation": "解锁日融合异化模块后的那一组升级比较特殊，被称为§b分岔§6。顾名思义，最初只能选择三条路线中的一条，另外两条会被锁定。每条路线的专属加成主要针对某一种模块，因此对其他模块类型的效果会降低（另有说明时除外）。可解锁的路线数量取决于锻炉的§b环数§6，而环数又受后续升级限制。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.milestoneinfotext.1",
+    "source": "Milestones are essential for upgrading the Forge, as they are the source of §bGraviton Shards§6, the main currency needed for unlocking upgrades. In essence, milestones are just what their name suggests, thresholds that when reached, grant Graviton Shards.",
+    "translation": "里程碑是升级锻炉的关键，因为它们会提供解锁升级所需的主要资源——§b引力子碎片§6。里程碑正如其名：达到相应门槛，即可获得引力子碎片。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.milestoneinfotext.2",
+    "source": "There are four types of milestones, Charge, Conversion, Catalyst and Composition, each referring to a stat of the Forge. Each milestone has §bseven§6 tiers, each being harder to reach than the last, but also granting more Graviton Shards. The first tier grants 1 Shard, the second 2, the third 3 and so on.",
+    "translation": "里程碑有充能、转化、催化和构成四类，分别对应锻炉的一项统计。每项里程碑都有§b七个§6等级，越往后越难达到，但给予的引力子碎片也越多。第一级给予1枚碎片，第二级2枚，第三级3枚，以此类推。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.milestoneinfotext.3",
+    "source": "The §bCharge§6 milestone scales off total power consumption of all modules combined, the first tier being unlocked at §b1e15§6 EU consumed, and each subsequent milestone scaling by §b9x§6.",
+    "translation": "§b充能§6里程碑取决于所有模块的累计耗电量。消耗§b1e15§6 EU时解锁第一级，此后每一级的门槛乘以§b9§6。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.milestoneinfotext.4",
+    "source": "The §bConversion§6 milestone scales off total recipes processed across all modules (excluding the Helioflare Power Forge's furnace mode) and its first tier is unlocked at §b10M§6 processed recipes. Following tiers scale by §b4x§6.",
+    "translation": "§b转化§6里程碑取决于所有模块完成的配方总数（不计日耀动力锻炉的熔炉模式）。完成§b1000万§6次配方时解锁第一级，此后每一级的门槛乘以§b4§6。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.milestoneinfotext.5",
+    "source": "The §bCatalyst§6 milestone is based on the Forge's fuel consumption, counted in Stellar Fuel units (the number entered in the fuel config menu). Reaching the first tier requires §b10,000§6 fuel units to be consumed, and each tier above scales by §b3x§6.",
+    "translation": "§b催化§6里程碑取决于锻炉的燃料消耗量，以恒星燃料单位计数（即燃料配置菜单中输入的数值）。消耗§b10,000§6单位燃料时达到第一级，此后每一级的门槛乘以§b3§6。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.milestoneinfotext.6",
+    "source": "Last but not least, the §bComposition§6 milestone works a bit differently, as it scales off the Forge's structure. Milestone levels are granted for each unique type of module present in the structure (Heliofusion Exoticizer modules on Quark Gluon and Magmatter Modes count as unique), and for each additional ring built.",
+    "translation": "最后，§b构成§6里程碑的计算方式有所不同，它取决于锻炉结构。结构中每增加一种不同的模块类型，或多建造一个环，都会提高里程碑等级。夸克胶子模式与磁单极子物质模式的日融合异化模块视为不同类型。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.milestoneinfotext.7",
+    "source": "Your research suggests that something strange might happen if all milestones reach their final tier... Make sure to check back!",
+    "translation": "研究表明，所有里程碑达到最终等级后，可能会发生某种奇异的变化……记得回来看看！"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.inversioninfotext.1",
+    "source": "Once all milestones of the Forge reach §bTier 7§6, inversion activates. This uncaps the maximum tier of all milestones and allows it to scale §binfinitely§6.",
+    "translation": "锻炉的全部里程碑达到§b第7级§6后，反转会被激活。这会解除所有里程碑的等级上限，使其能够§b无限§6提升。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.inversioninfotext.2",
+    "source": "The scaling of each milestone changes from exponential to linear, but the granted Graviton Shard amount keeps increasing. The amount of progress needed for each subsequent milestone is as much as needed for the §b7th tier§6 of each milestone.",
+    "translation": "各项里程碑的门槛从指数增长改为线性增长，但给予的引力子碎片数量仍会继续增加。此后每提升一级，所需新增进度等于该项里程碑原本§b第7级§6所需的进度。"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.multimachine.FOG.inversioninfotext.3",
+    "source": "The Composition milestone is once again an exception, as that continues to scale by 1 each tier, with its own formula for calculating progress. Each module type is given a value, ranging from §b1§6 for the Helioflare Power Forge to §b5§6 for the Heliofusion Exoticizer in Magmatter Mode, then the amount of each module present is subtracted by 1 and multiplied by its value. These values are added up and divided by 5, this is the final milestone tier on top of the base 7.",
+    "translation": "构成里程碑仍是例外：它依旧每次提升1级，但使用专门的进度公式。每种模块都有一个权值，从日耀动力锻炉的§b1§6到磁单极子物质模式日融合异化模块的§b5§6不等。将每种模块的数量减1，再乘以对应权值；把结果相加后除以5，就是在基础7级之上增加的等级。"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.soundsmenu.output_device.default",
+    "source": "System Default",
+    "translation": "系统默认"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.soundsmenu.output_device.tooltip",
+    "source": "Selects an OpenAL playback device. System Default follows operating-system changes. Requires lwjgl3ify and modern OpenAL Soft.",
+    "translation": "选择OpenAL播放设备。系统默认会跟随操作系统的设备变化。需要lwjgl3ify和新版OpenAL Soft。"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.soundsmenu.output_device.failed",
+    "source": "Could not switch to that output device.",
+    "translation": "无法切换至该输出设备。"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.chat.huge_message.logged",
+    "source": "§cSomeone tried to send you a huge chat message that would kick you. Ask your server admin to see details. Please provide these info while reporting: Incident ID %s§c. Start of original message: %s",
+    "translation": "§c有人试图向你发送一条会导致你断开连接的超长聊天消息。请联系服务器管理员查看详情。报告问题时请提供：事件ID %s§c。原始消息开头：%s"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.chat.huge_message.unlogged",
+    "source": "§cSomeone tried to send you a huge chat message that would kick you. Ask your server admin to turn on logHugeChat in HodgePodge if you cannot identify the source of this and this keeps happening. Start of original message: %s",
+    "translation": "§c有人试图向你发送一条会导致你断开连接的超长聊天消息。若无法确定来源且问题反复发生，请让服务器管理员启用HodgePodge的logHugeChat。原始消息开头：%s"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.idle",
+    "source": "You have been idle for too long!",
+    "translation": "你挂机太久了！"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.illegal_stance",
+    "source": "Illegal stance",
+    "translation": "非法姿态"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.illegal_position",
+    "source": "Illegal position",
+    "translation": "非法位置"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.flying",
+    "source": "Flying is not enabled on this server",
+    "translation": "此服务器未启用飞行"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.illegal_characters",
+    "source": "Illegal characters in chat",
+    "translation": "聊天中包含非法字符"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.invalid_entity",
+    "source": "Attempting to attack an invalid entity",
+    "translation": "试图攻击无效实体"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.hardcore_death",
+    "source": "You have died. Game over, man, it's game over!",
+    "translation": "你死了。游戏结束，伙计，游戏结束了！"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.logged_in_elsewhere",
+    "source": "You logged in from another location",
+    "translation": "你已从其他位置登录"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.not_whitelisted",
+    "source": "You are not white-listed on this server!",
+    "translation": "你不在此服务器的白名单中！"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.server_full",
+    "source": "The server is full!",
+    "translation": "服务器已满！"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.login_timeout",
+    "source": "Took too long to log in",
+    "translation": "登录超时"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.banned",
+    "source": "You are banned from this server.",
+    "translation": "你已被此服务器封禁。"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.ip_banned",
+    "source": "You have been IP banned.",
+    "translation": "你的IP已被封禁。"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.server_starting",
+    "source": "Server is still starting! Please wait before reconnecting.",
+    "translation": "服务器仍在启动！请稍后重连。"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.session_cleanup_pending",
+    "source": "Your previous session is still being cleaned up, please reconnect in a moment",
+    "translation": "上一次会话仍在清理中，请稍后重连"
+  },
+  {
+    "file": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+    "key": "hodgepodge.disconnect.session_cleanup_failed",
+    "source": "Your previous session could not be cleaned up safely. Please contact a server administrator.",
+    "translation": "无法安全清理上一次会话。请联系服务器管理员。"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.undo_placement",
+    "source": "Undo Placement",
+    "translation": "撤销放置"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.redo_placement",
+    "source": "Redo Placement",
+    "translation": "重做放置"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_concave",
+    "source": "Slope (Round Concave)",
+    "translation": "斜面（圆凹）"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_convex",
+    "source": "Slope (Round Convex)",
+    "translation": "斜面（圆凸）"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_convex_inner_corner",
+    "source": "Convex Inner Corner",
+    "translation": "凸面内角"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_convex_outer_corner",
+    "source": "Convex Outer Corner",
+    "translation": "凸面外角"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_triangle",
+    "source": "Slope Triangle",
+    "translation": "三角斜面"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_triangle_corner",
+    "source": "Slope Triangle Corner",
+    "translation": "三角斜面角"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_triangle_alt",
+    "source": "Slope Triangle (Alt)",
+    "translation": "三角斜面（替代）"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_outer_corner",
+    "source": "Slope Outer Corner",
+    "translation": "斜面外角"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.slope_inner_corner",
+    "source": "Slope Inner Corner",
+    "translation": "斜面内角"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "key.littletiles.deformed_box",
+    "source": "Deformed Box",
+    "translation": "变形方盒"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.command.dumpmesh.error",
+    "source": "No mesh under cursor.",
+    "translation": "光标下没有网格。"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.command.dumpmesh.success",
+    "source": "Mesh dumped to %s",
+    "translation": "网格已导出至%s"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.command.dumpmesh.culled.success",
+    "source": "Culled mesh dumped to %s",
+    "translation": "剔除后的网格已导出至%s"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.command.dumpmesh.culled.hidden",
+    "source": "Selected tile is fully culled, which should not happen - check culling.",
+    "translation": "所选小方块被完全剔除，这不应发生——请检查剔除逻辑。"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.command.dumpmesh.plainbox",
+    "source": "Selected tile is a plain box, dump skipped.",
+    "translation": "所选小方块为普通方盒，已跳过导出。"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.command.dumpmesh.invalid",
+    "source": "Invalid mesh under cursor. Metadata dumped to %s",
+    "translation": "光标下的网格无效。元数据已导出至%s"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.history.undo_failed",
+    "source": "Cannot undo: Change doesn't apply anymore, world changed.",
+    "translation": "无法撤销：世界已改变，该修改不再适用。"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.history.redo_failed",
+    "source": "Cannot redo: Change doesn't apply anymore, world changed.",
+    "translation": "无法重做：世界已改变，该修改不再适用。"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "item.LTLittleBag.name",
+    "source": "Little Bag",
+    "translation": "小方块袋"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.little_bag.hint",
+    "source": "Little tiles are converted back into materials",
+    "translation": "小方块会被转换回原材料"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.stats.crafting_needed",
+    "source": "Crafting Needed",
+    "translation": "需要合成"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.stats.crafting_available",
+    "source": "Crafting Available",
+    "translation": "可用于合成"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.stats.highlight_handler",
+    "source": "Highlight Recipe Handler",
+    "translation": "高亮配方处理器"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.stats.next_highlight",
+    "source": "Go to Next Highlighted Handler",
+    "translation": "跳转至下一个高亮处理器"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.stats.prev_highlight",
+    "source": "Go to Previous Highlighted Handler",
+    "translation": "跳转至上一个高亮处理器"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.stats.clear_highlight",
+    "source": "Clear Handler Highlight",
+    "translation": "清除处理器高亮"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.toolbar.inventory_off",
+    "source": "Recompute tree using player inventory (snapshot)",
+    "translation": "使用玩家物品栏快照重新计算合成树"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.toolbar.inventory_on",
+    "source": "Using inventory snapshot - click to clear",
+    "translation": "正在使用物品栏快照——点击清除"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.recipe.group.scroll",
+    "source": "Change Variant (%s/%s)",
+    "translation": "切换变种（%s/%s）"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.recipe.pinned",
+    "source": "Click to resume cycling",
+    "translation": "点击恢复轮换"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.19",
+    "source": "// TODO replace this",
+    "translation": "// 待办：替换此内容"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.62",
+    "source": "Fake news!",
+    "translation": "假新闻！"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.76",
+    "source": "The quick brown fox jumps over the lazy dog.",
+    "translation": "敏捷的棕色狐狸跳过了懒狗。"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.92",
+    "source": "Chicken Jockeeey!",
+    "translation": "鸡骑士——！"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.107",
+    "source": "What does the fox say?",
+    "translation": "狐狸怎么叫？"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.132",
+    "source": "§ojava.lang.IllegalArgumentException: Bad prompt",
+    "translation": "§ojava.lang.IllegalArgumentException: 提示词无效"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.133",
+    "source": "§ojava.lang.IllegalStateException: FetherAI is currently busy",
+    "translation": "§ojava.lang.IllegalStateException: FetherAI当前忙碌"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.134",
+    "source": "§ojava.lang.OutOfMemoryError: FetherAI failed to allocate the necessary memory for the response",
+    "translation": "§ojava.lang.OutOfMemoryError: FetherAI无法为回复分配所需内存"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.ui.welcomepopupenabled",
+    "source": "Welcome Popup",
+    "translation": "欢迎弹窗"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.ui.welcomepopupenabled.tooltip",
+    "source": "Controls whether GuideNH shows the first-open welcome popup.",
+    "translation": "控制GuideNH是否在首次打开时显示欢迎弹窗。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.ui.sceneeditorexportopenfolderafterexport",
+    "source": "Open Structure Folder After SNBT Export",
+    "translation": "导出SNBT后打开结构文件夹"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.ui.sceneeditorexportopenfolderafterexport.tooltip",
+    "source": "Controls whether the scene editor opens the exported structure folder after a successful SNBT export.",
+    "translation": "控制场景编辑器是否在成功导出SNBT后打开导出的结构文件夹。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.ui.regionwandbindings",
+    "source": "Region Wand Item Bindings",
+    "translation": "区域魔杖物品绑定"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.ui.regionwandbindings.tooltip",
+    "source": "Client-side item id and metadata bindings managed with /guidenhc bind and /guidenhc unbind.",
+    "translation": "通过/guidenhc bind和/guidenhc unbind管理的客户端物品ID及元数据绑定。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.runtime.compiledpagecachelimit",
+    "source": "Compiled Page Cache Limit",
+    "translation": "已编译页面缓存上限"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.runtime.compiledpagecachelimit.tooltip",
+    "source": "Maximum number of compiled guide pages retained in memory. Lower values reduce memory usage; higher values reduce recompilation.",
+    "translation": "内存中保留的已编译指南页面的最大数量。较小的值可降低内存占用，较大的值可减少重新编译。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guidenh.welcome.close_hint",
+    "source": "Press Space or click the top-right button to close",
+    "translation": "按空格键或点击右上角按钮关闭"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.CommandExportSiteTiming",
+    "source": "Static site export elapsed time: %s",
+    "translation": "静态站点导出耗时：%s"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.GuideEditorWrap",
+    "source": "Toggle Word Wrap",
+    "translation": "切换自动换行"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.RegionWandBound",
+    "source": "§a[RegionWand]§r Bound to the held item.",
+    "translation": "§a[区域魔杖]§r已绑定至手持物品。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.RegionWandAlreadyBound",
+    "source": "§e[RegionWand]§r The held item are already bound.",
+    "translation": "§e[区域魔杖]§r手持物品已经绑定。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.RegionWandUnbound",
+    "source": "§a[RegionWand]§r Cleared the Region Wand binding.",
+    "translation": "§a[区域魔杖]§r已清除区域魔杖绑定。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.RegionWandNotBound",
+    "source": "§e[RegionWand]§r No Region Wand binding is configured.",
+    "translation": "§e[区域魔杖]§r尚未设置区域魔杖绑定。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.RegionWandNoHeldItem",
+    "source": "§c[RegionWand]§r Hold an item before using this command.",
+    "translation": "§c[区域魔杖]§r使用此命令前请先手持物品。"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.RegionWandTooltipBound",
+    "source": "§b[RegionWand]§r Bound to this item",
+    "translation": "§b[区域魔杖]§r已绑定至此物品"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.SceneEditorExportSnbt",
+    "source": "Export SNBT",
+    "translation": "导出SNBT"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.SceneEditorExportSnbtOpenFolder",
+    "source": "Open Structure Folder After SNBT Export",
+    "translation": "导出SNBT后打开结构文件夹"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.SceneEditorCopyGameScene",
+    "source": "Copy GameScene",
+    "translation": "复制GameScene"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.SceneEditorCopyBlockImage",
+    "source": "Copy BlockImage",
+    "translation": "复制BlockImage"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.NavBarExpandAll",
+    "source": "Expand All",
+    "translation": "全部展开"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.NavBarCollapseAll",
+    "source": "Collapse All",
+    "translation": "全部折叠"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.MediaWikiTemplateNotFound",
+    "source": "Unknown template: %s",
+    "translation": "未知模板：%s"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.MediaWikiTemplateRecursion",
+    "source": "Template includes itself: %s",
+    "translation": "模板包含自身：%s"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.MediaWikiTemplateTooLarge",
+    "source": "Template expansion is too large: %s",
+    "translation": "模板展开内容过大：%s"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.MediaWikiTemplateUnknownFunction",
+    "source": "Unknown parser function: %s",
+    "translation": "未知解析器函数：%s"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.MediaWikiTemplateBadExpression",
+    "source": "Invalid expression: %s",
+    "translation": "无效表达式：%s"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.FlowchartCopyPlan",
+    "source": "Copy Plan",
+    "translation": "复制计划"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.FlowchartCopyPlanSuccess",
+    "source": "Plan copied to the clipboard",
+    "translation": "计划已复制到剪贴板"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.FlowchartCopyPlanFailure",
+    "source": "Failed to copy plan: %s",
+    "translation": "复制计划失败：%s"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guidenh.compat.bq.insert_guide_link",
+    "source": "GuideNH Link",
+    "translation": "GuideNH链接"
+  },
+  {
+    "file": "resources/Modular UI 2[modularui2]/lang/zh_CN.lang",
+    "key": "modularui2.config.show_slot_overlay",
+    "source": "Show Slot Overlay",
+    "translation": "显示槽位叠加层"
+  },
+  {
+    "file": "resources/Modular UI 2[modularui2]/lang/zh_CN.lang",
+    "key": "modularui2.config.show_slot_overlay.tooltip",
+    "source": "If true, display the slot overlay when the slot is occupied.",
+    "translation": "启用后，槽位被占用时显示槽位叠加层。"
+  },
+  {
+    "file": "resources/Modular UI 2[modularui2]/lang/zh_CN.lang",
+    "key": "modularui2.config.enable_test_guis.tooltip",
+    "source": "Enables a test block, test item with a test gui and opening a gui by right clicking a diamond.",
+    "translation": "启用测试方块、带测试界面的测试物品，以及右键钻石打开界面的功能。"
+  },
+  {
+    "file": "resources/Modular UI 2[modularui2]/lang/zh_CN.lang",
+    "key": "modularui2.config.enable_test_overlays",
+    "source": "Enable Test Overlays",
+    "translation": "启用测试叠加层"
+  },
+  {
+    "file": "resources/Modular UI 2[modularui2]/lang/zh_CN.lang",
+    "key": "modularui2.config.enable_test_overlays.tooltip",
+    "source": "Enables a test overlay shown on title screen and watermark shown on every GuiContainer.",
+    "translation": "在标题界面显示测试叠加层，并在所有GuiContainer界面显示水印。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.title",
+    "source": "Fishing Loot Table",
+    "translation": "钓鱼战利品表"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.format_1",
+    "source": "Category name - x%",
+    "translation": "类别名称 - x%"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.format_2",
+    "source": "Item chances are per catch",
+    "translation": "物品概率按每次上钩计算"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.format_3",
+    "source": "Base chances are with",
+    "translation": "基础概率基于以下条件："
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.format_4",
+    "source": "Luck of the Sea 0 and Lure 0",
+    "translation": "海之眷顾0级与饵钓0级"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.minefantasy2_guts_looting",
+    "source": "Chance is divided by (1 + Looting level).",
+    "translation": "概率除以（1＋抢夺等级）。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.minefantasy2_burning",
+    "source": "Only when the mob is burning.",
+    "translation": "仅在生物燃烧时。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.minefantasy2_not_burning",
+    "source": "Only when the mob is not burning.",
+    "translation": "仅在生物未燃烧时。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.minefantasy2_hunting_weapon",
+    "source": "Requires a hunting weapon on the killing blow.",
+    "translation": "致命一击必须使用狩猎武器。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.minefantasy2_bow_skeleton",
+    "source": "Only when the skeleton holds a bow.",
+    "translation": "仅在骷髅持弓时。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.minefantasy2_original_item",
+    "source": "Only when replacing a normal drop of %s.",
+    "translation": "仅在替换%s的普通掉落物时。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.minefantasy2_tagged_sack",
+    "source": "Only from MineFantasy II upgraded zombies.",
+    "translation": "仅由MineFantasy II的强化僵尸掉落。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.lootplusplus_player_credit",
+    "source": "Requires player kill credit.",
+    "translation": "需要归属于玩家的击杀。"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.extras.lootplusplus_skeleton_kill",
+    "source": "Only when killed by a skeleton.",
+    "translation": "仅在被骷髅击杀时。"
+  },
+  {
+    "file": "resources/Salis Arcana[salisarcana]/lang/zh_CN.lang",
+    "key": "salisarcana.keybind_category",
+    "source": "Salis Arcana",
+    "translation": "神秘奥术"
+  },
+  {
+    "file": "resources/Salis Arcana[salisarcana]/lang/zh_CN.lang",
+    "key": "salisarcana.keybind.quick_stash_focus",
+    "source": "Quick-Stash Focus",
+    "translation": "快捷收纳核心"
+  },
+  {
+    "file": "resources/Applied Energistics 2[appliedenergistics2]/lang/zh_CN.lang",
+    "key": "gui.appliedenergistics2.Qty",
+    "source": "Qty",
+    "translation": "数量"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.blockmachines.electrodehatch.tooltip",
+    "source": "Holds an electrode.",
+    "translation": "存放电极。"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.drone_zoom",
+    "source": "ZOOM: %.1fx",
+    "translation": "缩放：%.1f倍"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.drone_flashlight",
+    "source": "Flashlight ON",
+    "translation": "照明已开启"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.hatch.redstone.body.1",
+    "source": "Can be installed in certain §eNAC§7 modules",
+    "translation": "可安装在部分§eNAC§7模块上"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.tooltip.nac.module.scanner.available_eut",
+    "source": "§eMax EU/t: %s",
+    "translation": "§e最大耗电：%s EU/t"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.multiblock.scanner.meta_tile_entity",
+    "source": "Meta-ID: §6%s",
+    "translation": "元ID：§6%s"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.waila.cable.throughput",
+    "source": "Throughput: §a%s§r EU/t (%s A)",
+    "translation": "吞吐量：§a%s§r EU/t（%s A）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.waila.cable.avg",
+    "source": "Avg (20t): §e%s§r EU/t (%s A)",
+    "translation": "平均值（20刻）：§e%s§r EU/t（%s A）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.waila.hatch.outputme.flush_interval",
+    "source": "§7Flushes to ME every §e%ss§7 (§anext in %ss§7)",
+    "translation": "§7每§e%s秒§7推送至ME一次（§a下次推送还需%s秒§7）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.waila.hatch.outputme.flush_interval.idle",
+    "source": "§7Flushes to ME every §e%ss§7",
+    "translation": "§7每§e%s秒§7推送至ME一次"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.waila.monster_repellent.working_range",
+    "source": "Range: §a%s§r blocks",
+    "translation": "范围：§a%s§r格"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.waila.monster_repellent.unpowered",
+    "source": "Unpowered",
+    "translation": "未供电"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.foundry.pairings.entropiccore.tooltip5",
+    "source": "%s+100%% * Entropy§r Speed",
+    "translation": "%s+100%%×熵§r速度"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.foundry.pairings.entropiccore.tooltip6",
+    "source": "%s-15%% * Entropy§r Initial EU Cost",
+    "translation": "%s-15%%×熵§r初始耗电"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.foundry.pairings.entropiccore.tooltip8",
+    "source": "§d+0.05 * Entropy§r OC Factor",
+    "translation": "§d+0.05×熵§r超频系数"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.scanner.debug.machine_allowed_to_work",
+    "source": "Machine is §aallowed§r to work",
+    "translation": "机器§a允许运行§r"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.infodata.cable.voltage",
+    "source": "Voltage: %s / %s V",
+    "translation": "电压：%s / %s V"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.infodata.cable.throughput",
+    "source": "Throughput: %s / %s EU/t (%s / %s A)",
+    "translation": "吞吐量：%s / %s EU/t（%s / %s A）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.infodata.cable.avg",
+    "source": "Avg (20t): %s EU/t (%s A)",
+    "translation": "平均值（20刻）：%s EU/t（%s A）"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.item.calabi_yau_manifold.tooltip",
+    "source": "Mathematical!",
+    "translation": "数学的奇迹！"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nanite-detector-analog",
+    "source": "Analog",
+    "translation": "模拟信号"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.text.nanite-detector-tier",
+    "source": "Tier %s",
+    "translation": "等级%s"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.alias.debug",
+    "source": "Debug",
+    "translation": "调试"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "gt.alias.fibre",
+    "source": "Fibre",
+    "translation": "纤维"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.chat.cover.connectable",
+    "source": "Connectable: %s",
+    "translation": "可连接：%s"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "GT5U.gui.transformer.step_up",
+    "source": "Step Up, In: %1$sV %2$sA, Out: %3$sV %4$sA",
+    "translation": "升压，输入：%1$sV %2$sA，输出：%3$sV %4$sA"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.antimatter.flavorText",
+    "source": "Dirac's mistake",
+    "translation": "狄拉克的失误"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.dimensionallytranscendentresidue.flavorText",
+    "source": "Sticky",
+    "translation": "黏糊糊"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.protohalkonite.flavorText",
+    "source": "Forged to be indestructible, probably",
+    "translation": "为坚不可摧而锻造，大概吧"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.plastic.fluidpipe.newname",
+    "source": "Plastic",
+    "translation": "塑料"
+  },
+  {
+    "file": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+    "key": "Material.wood.fluidpipe.newname",
+    "source": "Wooden",
+    "translation": "木制"
+  },
+  {
+    "file": "resources/GregTech[tectech]/lang/zh_CN.lang",
+    "key": "tt.eoh.fancy_names.advanced",
+    "source": "Advanced",
+    "translation": "进阶"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "item.LTPartialTiles.name",
+    "source": "Tiles",
+    "translation": "小方块"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.little_bag.fill",
+    "source": "%d%% full",
+    "translation": "已装满%d%%"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.little_bag.materials",
+    "source": "%d / %d materials",
+    "translation": "%d / %d份材料"
+  },
+  {
+    "file": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+    "key": "littletiles.partial_tiles.amount",
+    "source": "%d / %d tiles",
+    "translation": "%d / %d个小方块"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.stats.handlers",
+    "source": "Handlers",
+    "translation": "处理器"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.bookmark.tree.stats.crafting",
+    "source": "Crafting",
+    "translation": "合成"
+  },
+  {
+    "file": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+    "key": "nei.options.inventory.tooltip",
+    "source": "Tooltips",
+    "translation": "工具提示"
+  },
+  {
+    "file": "resources/Fether[fether]/lang/zh_CN.lang",
+    "key": "commands.fether.fetherai.response.text.106",
+    "source": "IT'S OVER 9000!!!",
+    "translation": "超过9000了！！！"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.gui.config.runtime",
+    "source": "Runtime",
+    "translation": "运行时"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guidenh.welcome.title",
+    "source": "Welcome to GuideNH",
+    "translation": "欢迎使用GuideNH"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.GuideEditorContextMenuTemplates",
+    "source": "Templates",
+    "translation": "模板"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.GuideEditorTooltip",
+    "source": "Tooltip",
+    "translation": "工具提示"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.Templates",
+    "source": "Templates",
+    "translation": "模板"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.RegionWandTooltipPos",
+    "source": "§bPos%s§7 = %s, %s, %s",
+    "translation": "§b位置%s§7 = %s, %s, %s"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.SceneEditorElementTooltip",
+    "source": "Tooltip",
+    "translation": "工具提示"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guideme.guidebook.SceneStructureLibChannelLabel",
+    "source": "Channel",
+    "translation": "频道"
+  },
+  {
+    "file": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+    "key": "guidenh.mediawiki.special.templates",
+    "source": "Templates",
+    "translation": "模板"
+  },
+  {
+    "file": "resources/Modular UI 2[modularui2]/lang/zh_CN.lang",
+    "key": "modularui2.debug.pos_rel",
+    "source": "§7Pos: §3%d§7, §3%d§7  Rel: §3%d§7, §3%d",
+    "translation": "§7位置：§3%d§7, §3%d§7  相对位置：§3%d§7, §3%d"
+  },
+  {
+    "file": "resources/Modular UI 2[modularui2]/lang/zh_CN.lang",
+    "key": "modularui2.debug.widget",
+    "source": "§7Widget: §6%s",
+    "translation": "§7控件：§6%s"
+  },
+  {
+    "file": "resources/ServerUtilities[serverutilities]/lang/zh_CN.lang",
+    "key": "serverutilities.invsee.title",
+    "source": "%s's %s",
+    "translation": "%s的%s"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.format",
+    "source": "Format:",
+    "translation": "格式："
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.fish",
+    "source": "Fish - %.2f%%",
+    "translation": "鱼类 - %.2f%%"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.junk",
+    "source": "Junk - %.2f%%",
+    "translation": "垃圾 - %.2f%%"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.treasure",
+    "source": "Treasure - %.2f%%",
+    "translation": "宝藏 - %.2f%%"
+  },
+  {
+    "file": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+    "key": "mobsinfo.mobhandlerfishing.tooltip_chance",
+    "source": "Chance to get: %.4f%%",
+    "translation": "获得概率：%.4f%%"
+  }
+]

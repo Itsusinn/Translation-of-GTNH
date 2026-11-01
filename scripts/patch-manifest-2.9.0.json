@@ -1,0 +1,79 @@
+{
+  "modpack": "GT New Horizons 2.9.0",
+  "official_archive_sha256": "c79e60a8a50a9eed880384d42d919993dccce2710eb4db748f82a9a7a82ccda7",
+  "policy": "Only additions and corrections; no official asset paths or identical language pairs",
+  "files": [
+    {
+      "path": "config/txloader/forceload/____gtnh_additions_zhcn/lang/zh_CN.lang",
+      "sha256": "dba25b500e9507bc5b15a4b7e16adf7d832e3d288f1501ae5ddb7255beca283d"
+    },
+    {
+      "path": "config/txloader/forceload/____gtnhoverridenames_zhcn/lang/zh_CN.lang",
+      "sha256": "060bdb18f767e7417004e947b88a52fec03a55eb548cdcc8593b5cb11eee6fdc"
+    },
+    {
+      "path": "config/txloader/load/gregtech/inflection/zh_CN.json",
+      "sha256": "5a2da999d2484ac16a5a34f032107d7b138bad0cc754173366cfc6d4a20f1476"
+    },
+    {
+      "path": "resources/Applied Energistics 2[appliedenergistics2]/lang/zh_CN.lang",
+      "sha256": "8a71d767c5c7bfb52bf1d50b84815887e8605e0c12306886f595bc6cc465ba93"
+    },
+    {
+      "path": "resources/Fether[fether]/lang/zh_CN.lang",
+      "sha256": "d4c383c02ee240aae1f3adfdd664f163c57f7953e7f029877bde728c362fe111"
+    },
+    {
+      "path": "resources/GTNH Lib[gtnhlib]/lang/zh_CN.lang",
+      "sha256": "945c7e0528da8fbb45e7343c9a229a04fb31768165f4485281d9e0c0a1956d34"
+    },
+    {
+      "path": "resources/GT_ New Horizons[dreamcraft]/lang/zh_CN.lang",
+      "sha256": "113fe8f099d9519daf41abd38a1e45cda1ffd1307825fc0396ec1e6d481acc73"
+    },
+    {
+      "path": "resources/GregTech[gregtech]/lang/zh_CN.lang",
+      "sha256": "1cd40fe39344739ed8f8a2488f93e638f68b520e3cde24522b67d3d580440efc"
+    },
+    {
+      "path": "resources/GregTech[miscutils]/lang/zh_CN.lang",
+      "sha256": "9911026b8f5a19668bf8f0880aaa2d887e0953636bfd5a02f16dce29a4bd764a"
+    },
+    {
+      "path": "resources/GregTech[tectech]/lang/zh_CN.lang",
+      "sha256": "d3bcc177dbec087f502646828885b2f80419067e678c4ccf4dafdcb96d3a68c1"
+    },
+    {
+      "path": "resources/GuideNH[guidenh]/lang/zh_CN.lang",
+      "sha256": "38a6230f4688f3ed6b9b117966d504ba4e95c025edb71548cac41be433c52e78"
+    },
+    {
+      "path": "resources/Hodgepodge[hodgepodge]/lang/zh_CN.lang",
+      "sha256": "482cc4068fb2536f40a2e1c447c4bda5fcaa1900a38151df5772cbbf0db18a1f"
+    },
+    {
+      "path": "resources/LittleTiles[littletiles]/lang/zh_CN.lang",
+      "sha256": "e990c89970692ddb103b1d055b4d5f0994904d604fb63aa5340cc39bfc675cf1"
+    },
+    {
+      "path": "resources/MobsInfo[mobsinfo]/lang/zh_CN.lang",
+      "sha256": "e55bcfdbeb5bf03b26fc22bc705a1d34c789cf4d62060f919fd76ae4acaa140d"
+    },
+    {
+      "path": "resources/Modular UI 2[modularui2]/lang/zh_CN.lang",
+      "sha256": "4c42e802ad31cd70503b5021b6de9b4165d2d3aae5ca029a1b19be1f18217cf8"
+    },
+    {
+      "path": "resources/NotEnoughItems[nei]/lang/zh_CN.lang",
+      "sha256": "a08a7055c5ab05f527a5338019aa3fb64ac67af54d9fb7cfc6493ab60cb402c2"
+    },
+    {
+      "path": "resources/Salis Arcana[salisarcana]/lang/zh_CN.lang",
+      "sha256": "8d10d8a5cfa8e6f94921d0fe0a88d1a6132ed5903bc200cc719892239b815ad4"
+    },
+    {
+      "path": "resources/ServerUtilities[serverutilities]/lang/zh_CN.lang",
+      "sha256": "b9d02eea9408a218ed04c3521663aebb613a1c31b74d57f40552dbe986b12065"
+    }
+  ]
+}

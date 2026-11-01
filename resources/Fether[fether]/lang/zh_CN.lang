@@ -1,0 +1,10 @@
+# GTNH 2.9.0 中文增量校正；官方完整语言文件保持原样。
+commands.fether.fetherai.response.text.106=超过9000了！！！
+commands.fether.fetherai.response.text.107=狐狸怎么叫？
+commands.fether.fetherai.response.text.132=§ojava.lang.IllegalArgumentException: 提示词无效
+commands.fether.fetherai.response.text.133=§ojava.lang.IllegalStateException: FetherAI当前忙碌
+commands.fether.fetherai.response.text.134=§ojava.lang.OutOfMemoryError: FetherAI无法为回复分配所需内存
+commands.fether.fetherai.response.text.19=// 待办：替换此内容
+commands.fether.fetherai.response.text.62=假新闻！
+commands.fether.fetherai.response.text.76=敏捷的棕色狐狸跳过了懒狗。
+commands.fether.fetherai.response.text.92=鸡骑士——！

@@ -1,68 +1,22 @@
-key.hodgepodge.category=大杂烩
-key.fastBlockPlacing.desc=快速方块放置
-key.fastBlockPlacing.enabled=§f快速方块放置 §a启用
-key.fastBlockPlacing.disabled=§f快速方块放置 §c禁用
-
-tile.dirt.name=泥土
-tile.sapling.name=树苗
-tile.sand.name=沙子
-tile.flower1.name=花
-tile.flower2.name=花
-tile.stoneSlab.name=台阶
-tile.monsterStoneEgg.name=石头怪蛋
-tile.woodSlab.name=台阶
-tile.cobbleWall.name=墙
-tile.quartzBlock.name=石英块
-tile.clayHardenedStained.name=陶瓦
-tile.woolCarpet.name=地毯
-tile.doublePlant.name=大型植物
-
-item.dyePowder.name=染料
-item.skull.name=骷髅
-item.fish.name=鱼
-
-commands.time.get=当前世界时间为%s（一天中的时间：%s）
-commands.time.usageWithGet=/time <set|add> <数值> 或 /time get
-
-hodgepodge.soundsmenu.refreshsounds=刷新音频
-hodgepodge.bed_respawn.msg=重生点设置
-
-bettermodlist.sort.normal=正常
-bettermodlist.sort.a_to_z=A-Z
-bettermodlist.sort.z_to_a=Z-A
-bettermodlist.gui.modlistinfo1=哦天哪一切都不一样了!
-bettermodlist.gui.modlistinfo2=全新的设计来自于:
-
-hodgepodge.debug.advanced_tooltips.enabled=Advanced Item Tooltips: §aOn
-hodgepodge.debug.advanced_tooltips.disabled=Advanced Item Tooltips: §cOff
-hodgepodge.debug.hitboxes.enabled=Hitboxes: §aOn
-hodgepodge.debug.hitboxes.disabled=Hitboxes: §cOff
-hodgepodge.debug.pause_focus.enabled=Pause on lost focus: §aOn
-hodgepodge.debug.pause_focus.disabled=Pause on lost focus: §cOff
-hodgepodge.debug.reload_chunks.message=Reloaded all chunks.
-hodgepodge.debug.reload_pack.message=Reloaded resource packs in %s seconds.
-hodgepodge.debug.crash.count.0=F3 + C is held down. This will crash the game in 6 seconds unless released.
-hodgepodge.debug.crash.count.1=Crashing in 5...
-hodgepodge.debug.crash.count.2=Crashing in 4...
-hodgepodge.debug.crash.count.3=Crashing in 3...
-hodgepodge.debug.crash.count.4=Crashing in 2...
-hodgepodge.debug.crash.count.5=Crashing in 1...
-hodgepodge.debug.crash.count.6=Time is over, game will crash when release ANY key.
-hodgepodge.debug.crash.cancel=Crash canceled.
-hodgepodge.debug.copy_location.message=Copied location to clipboard.
-
-hodgepodge.debug.help.message=Key bindings:
-hodgepodge.debug.help.0=F3 = Open Debug Screen
-hodgepodge.debug.help.1=Shift + F3 = Open Debug Screen and show Profiler graph
-hodgepodge.debug.help.angelica=Alt + F3 = [Angelica] Open Debug Screen and show FPS/TPS graph
-hodgepodge.debug.help.2=F3 + A = Reload chunks
-hodgepodge.debug.help.3=F3 + B = Show hitboxes
-hodgepodge.debug.help.4=F3 + C = Copy location as /cofh tpx command, or hold for 6 seconds to crash the game
-hodgepodge.debug.help.5=F3 + D = [Hodgepodge] Clear chat
-hodgepodge.debug.help.6=F3 + H = Advanced tooltips
-hodgepodge.debug.help.7=F3 + P = Pause on lost focus
-hodgepodge.debug.help.8=F3 + Q = [Hodgepodge] Show this list
-hodgepodge.debug.help.9=F3 + S/T = Reload resource packs
-hodgepodge.debug.help.etfuturum=F3 + F4 = [Et-Futurum-Requiem] Open game mode switcher
-hodgepodge.debug.help.nei.1=%s = [NEI] Open Mob Spawning Overlay
-hodgepodge.debug.help.nei.2=%s = [NEI] Open Chunk Overlay
+# GTNH 2.9.0 中文增量校正；官方完整语言文件保持原样。
+hodgepodge.chat.huge_message.logged=§c有人试图向你发送一条会导致你断开连接的超长聊天消息。请联系服务器管理员查看详情。报告问题时请提供：事件ID %s§c。原始消息开头：%s
+hodgepodge.chat.huge_message.unlogged=§c有人试图向你发送一条会导致你断开连接的超长聊天消息。若无法确定来源且问题反复发生，请让服务器管理员启用HodgePodge的logHugeChat。原始消息开头：%s
+hodgepodge.disconnect.banned=你已被此服务器封禁。
+hodgepodge.disconnect.flying=此服务器未启用飞行
+hodgepodge.disconnect.hardcore_death=你死了。游戏结束，伙计，游戏结束了！
+hodgepodge.disconnect.idle=你挂机太久了！
+hodgepodge.disconnect.illegal_characters=聊天中包含非法字符
+hodgepodge.disconnect.illegal_position=非法位置
+hodgepodge.disconnect.illegal_stance=非法姿态
+hodgepodge.disconnect.invalid_entity=试图攻击无效实体
+hodgepodge.disconnect.ip_banned=你的IP已被封禁。
+hodgepodge.disconnect.logged_in_elsewhere=你已从其他位置登录
+hodgepodge.disconnect.login_timeout=登录超时
+hodgepodge.disconnect.not_whitelisted=你不在此服务器的白名单中！
+hodgepodge.disconnect.server_full=服务器已满！
+hodgepodge.disconnect.server_starting=服务器仍在启动！请稍后重连。
+hodgepodge.disconnect.session_cleanup_failed=无法安全清理上一次会话。请联系服务器管理员。
+hodgepodge.disconnect.session_cleanup_pending=上一次会话仍在清理中，请稍后重连
+hodgepodge.soundsmenu.output_device.default=系统默认
+hodgepodge.soundsmenu.output_device.failed=无法切换至该输出设备。
+hodgepodge.soundsmenu.output_device.tooltip=选择OpenAL播放设备。系统默认会跟随操作系统的设备变化。需要lwjgl3ify和新版OpenAL Soft。
